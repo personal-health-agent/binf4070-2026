@@ -1,0 +1,985 @@
+{
+  "dataPoints": [
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-11T02:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 10
+            },
+            "time": {
+              "hours": 22,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "67"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-10T21:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 10
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "ACTIVE",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "101"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-10T16:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 10
+            },
+            "time": {
+              "hours": 12,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "79"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-10T12:00:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 10
+            },
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "62"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-10T02:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 9
+            },
+            "time": {
+              "hours": 22,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "68"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-09T21:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 9
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "ACTIVE",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "109"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-09T16:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 9
+            },
+            "time": {
+              "hours": 12,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "81"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-09T12:00:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 9
+            },
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "63"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-09T02:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 8
+            },
+            "time": {
+              "hours": 22,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "72"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-08T21:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 8
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "88"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-08T16:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 8
+            },
+            "time": {
+              "hours": 12,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "76"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-08T12:00:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 8
+            },
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "66"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-08T02:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 7
+            },
+            "time": {
+              "hours": 22,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "67"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-07T21:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 7
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "ACTIVE",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "123"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-07T16:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 7
+            },
+            "time": {
+              "hours": 12,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "86"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-07T12:00:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 7
+            },
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "61"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-07T02:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 6
+            },
+            "time": {
+              "hours": 22,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "69"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-06T21:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 6
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "91"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-06T16:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 6
+            },
+            "time": {
+              "hours": 12,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "74"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-06T12:00:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 6
+            },
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "65"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-06T02:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 5
+            },
+            "time": {
+              "hours": 22,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "66"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-05T21:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 5
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "ACTIVE",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "116"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-05T16:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 5
+            },
+            "time": {
+              "hours": 12,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "82"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-05T12:00:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 5
+            },
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "60"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-05T02:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 4
+            },
+            "time": {
+              "hours": 22,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "68"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-04T21:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 4
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "ACTIVE",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "104"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-04T16:30:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 4
+            },
+            "time": {
+              "hours": 12,
+              "minutes": 30
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "78"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "heartRate": {
+        "sampleTime": {
+          "physicalTime": "2026-09-04T12:00:00Z",
+          "utcOffset": "-14400s",
+          "civilTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 4
+            },
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          }
+        },
+        "metadata": {
+          "motionContext": "SEDENTARY",
+          "sensorLocation": "WRIST"
+        },
+        "beatsPerMinute": "62"
+      }
+    }
+  ],
+  "nextPageToken": ""
+}

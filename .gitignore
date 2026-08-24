@@ -1,0 +1,50 @@
+# Operating-system and editor metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Jupyter and Python transient files
+**/.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+*.log
+
+# Notebook execution artifacts
+*-executed.ipynb
+*.nbconvert.ipynb
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+**/.secrets/
+**/credentials*.json
+**/client_secret*.json
+**/token.json
+*.pem
+*.key
+
+# Instructor-only artifacts belong in the private authoring repository
+**/solution*.ipynb
+**/generate_notebooks.py
+**/review-lab.md
+**/student-feedback.md
+**/instructor-only/
+**/answer-key*
+
+# Local student work and collected submissions
+student-work/
+submissions/

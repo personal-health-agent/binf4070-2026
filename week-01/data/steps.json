@@ -1,0 +1,929 @@
+{
+  "dataPoints": [
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-10T21:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-11T03:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 10
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 10
+            },
+            "time": {
+              "hours": 23,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "2815"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-10T14:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-10T21:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 10
+            },
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 10
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "3240"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-10T11:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-10T14:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 10
+            },
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 10
+            },
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "760"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-09T21:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-10T03:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 9
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 9
+            },
+            "time": {
+              "hours": 23,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "2820"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-09T14:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-09T21:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 9
+            },
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 9
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "3620"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-09T11:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-09T14:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 9
+            },
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 9
+            },
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "910"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-08T21:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-09T03:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 8
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 8
+            },
+            "time": {
+              "hours": 23,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "2460"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-08T14:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-08T21:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 8
+            },
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 8
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "1880"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-08T11:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-08T14:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 8
+            },
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 8
+            },
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "540"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-07T21:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-08T03:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 7
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 7
+            },
+            "time": {
+              "hours": 23,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "3380"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-07T14:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-07T21:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 7
+            },
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 7
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "4360"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-07T11:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-07T14:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 7
+            },
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 7
+            },
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "1280"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-06T21:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-07T03:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 6
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 6
+            },
+            "time": {
+              "hours": 23,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "2730"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-06T14:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-06T21:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 6
+            },
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 6
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "3015"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-06T11:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-06T14:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 6
+            },
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 6
+            },
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "690"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-05T21:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-06T03:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 5
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 5
+            },
+            "time": {
+              "hours": 23,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "2980"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-05T14:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-05T21:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 5
+            },
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 5
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "3820"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-05T11:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-05T14:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 5
+            },
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 5
+            },
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "1040"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-04T21:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-05T03:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 4
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 4
+            },
+            "time": {
+              "hours": 23,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "2080"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-04T14:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-04T21:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 4
+            },
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 4
+            },
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "2310"
+      }
+    },
+    {
+      "dataSource": {
+        "recordingMethod": "PASSIVELY_MEASURED",
+        "application": {
+          "packageName": "com.google.fitbit"
+        },
+        "device": {
+          "manufacturer": "Google",
+          "displayName": "Fictional Course Fitbit"
+        },
+        "platform": "FITBIT"
+      },
+      "steps": {
+        "interval": {
+          "startTime": "2026-09-04T11:00:00Z",
+          "startUtcOffset": "-14400s",
+          "endTime": "2026-09-04T14:00:00Z",
+          "endUtcOffset": "-14400s",
+          "civilStartTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 4
+            },
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          "civilEndTime": {
+            "date": {
+              "year": 2026,
+              "month": 9,
+              "day": 4
+            },
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        },
+        "count": "820"
+      }
+    }
+  ],
+  "nextPageToken": ""
+}
